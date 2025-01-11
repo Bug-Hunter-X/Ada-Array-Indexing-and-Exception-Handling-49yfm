@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Ada programming: insufficient error handling when working with arrays. The `bug.ada` file shows the code with a basic, insufficient `exception` handler. The `bugSolution.ada` file demonstrates improved error handling.
